@@ -25,7 +25,7 @@ My research interests include multimodal learning, multi-view clustering, and ro
 Currently, I’m a student of [Professor Peng](https://xlearning-lab.com/).
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
+- *2026.02*: &nbsp;🎉🎉   
 
 # 📝 Publications 
 
@@ -34,4 +34,3 @@ Currently, I’m a student of [Professor Peng](https://xlearning-lab.com/).
 
 
 # 💻 Internships
-- *2019.06 - 2020.02*, [Tencent](https://github.com/), China.
